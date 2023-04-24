@@ -33,7 +33,7 @@ Relógio digital criado com Html, CSS e JavaScript <br/>
 
 - Esse projeto foi criado com o objetivo de por em prática questões envolvendo o JS e a manipulação do DOM. 
 
-- [Visite o projeto online]() 
+- [Visite o projeto online](https://gabnns.github.io/RelogioDigital/) 
 
 
 
